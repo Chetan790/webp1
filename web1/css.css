@@ -8,7 +8,7 @@
     margin-top: 20px;
     height: 500px;
     width: 800px;
-
+    
 }
 .buttonstyle{
     height: 50px;
@@ -26,7 +26,7 @@
 .buttonstyle:hover{
     background-color: white;
     color: rgb(79, 174, 79);
-    border: 2px black solid;
+    border: 2px rgb(52, 156, 108) solid;
 }
 .contentalign{
     float: left;
