@@ -105,6 +105,7 @@
 }
 .topimg:hover{
     opacity: 1;
+    transition: ease-in-out 0.6s;
 }
 .login{
     border: 2px black solid;
